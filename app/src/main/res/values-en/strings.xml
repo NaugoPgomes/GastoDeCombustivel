@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> fuel expense </string>
+    <string name="distancia"> Travel distance in km </string>
+    <string name="total_de_quilometros"> total kilometers </string>
+    <string name="preco"> fuel price </string>
+    <string name="preco_por_litro"> price per liter </string>
+    <string name="autonomia"> Autonomy </string>
+    <string name="kms_por_litro"> km per liter </string>
+    <string name="gasto"> Your Spending Will Be </string>
+    <string name="valor"> $ 0 </string>
+    <string name="calcular"> Calculate </string>
+    <string name="campoVazio"> Cannot have empty fields </string>
+    <string name="valor0"> Enter values ​​that are valid </string>
+    <string name="entrar"> Get in </string>
+</resources>
