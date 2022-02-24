@@ -8,7 +8,7 @@
     <string name="autonomia"> Autonomy </string>
     <string name="kms_por_litro"> km per liter </string>
     <string name="gasto"> Your Spending Will Be </string>
-    <string name="valor"> $ 0 </string>
+    <string name="valor"> R$ 0 </string>
     <string name="calcular"> Calculate </string>
     <string name="campoVazio"> Cannot have empty fields </string>
     <string name="valor0"> Enter values ​​that are valid </string>
